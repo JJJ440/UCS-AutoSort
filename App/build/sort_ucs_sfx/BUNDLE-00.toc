@@ -1,0 +1,1 @@
+([('sort_ucs_sfx', '/Users/joehertz/Desktop/dist/sort_ucs_sfx', 'EXECUTABLE')],)
